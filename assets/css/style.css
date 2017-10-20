@@ -1,0 +1,30 @@
+body {
+	background-color: red;
+	padding: 20px;
+	font-size: 15px;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	font-size: 80px;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+}
+
+button {
+	color: red;
+	font-size: 15px;
+}
+
+.rowDiv {
+	display: inline-block;
+	margin: 10px;
+}
+
+.cartoons {
+	margin: 3px;
+}
